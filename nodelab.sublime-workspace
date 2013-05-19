@@ -1,0 +1,577 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"atracao",
+				"atracaoModelo"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"bgi",
+				"bgi:n	background-image:none"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/assine.phtml",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/Jsp/application.js",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/index.php",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/videos.phtml",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/garota-selecionada.phtml",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/garotas.phtml",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/video-selecionado.phtml",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/sass/modules/.sass-cache/48725add8fcda9d5059f4a66955a9ea6ffbced30/video-selecionado.scssc",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/sass/modules/garotas.scss",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/Css/application.css",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/sass/modules/video-selecionado.scss",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/login.phtml",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/sass/modules/login.scss",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/sass/modules/footer.scss",
+		"/Volumes/INTERNET/Projetos_Web/Parceiros/CameraCaseira/sass/modules/assine.scss",
+		"/Users/kaumac/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/application.css",
+		"/C/Users/Kaue/Dropbox/Projetos/Ferramentas/Sublime Text 2/Data/Packages/Default/Preferences.sublime-settings",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/home.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/assine.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/login.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/agenda.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/garota-selecionada.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/video-selecionado.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/videos.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/App/Views/Default/garotas.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/includes/home.phtml",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/includes/home.php",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/config.rb",
+		"/C/Users/Kaue/Dropbox/Projetos/Ferramentas/Sublime Text 2/Data/Packages/User/SFTP.errors.log",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/style.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/header.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/garota-selecionada.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/garotas.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/videos.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/assine.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/login.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/agenda.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/video-selecionado.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/home.scss",
+		"/C/Users/Kaue/Dropbox/Projetos/Ferramentas/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/footer.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/main.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/screen.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/stylesheets/screen.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/layout.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/videos.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/style.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/header.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/index.php",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/layout.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/main.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/maina.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/modules/home.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/main.sass",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/alt.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/modules/topo.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sass/plugins",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/style.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/modules/garotas.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Scss/style.scss",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/index.css",
+		"/C/Users/Kaue/Dropbox/Projetos/Ferramentas/Sublime Text 2/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/index.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/geral.css",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/style.scss",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/sftp-config.json",
+		"/Z/Projetos_Web/Parceiros/CameraCaseira/Css/styles.css",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/sftp-config.json",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/App/Views/Default/home.phtml",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/Jsp/func.js",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/capa.php",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/Css/header.css",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/Css/template.css",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/Css/home.css",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/Css/videos.css",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/sftp-config-alt2.json",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/App/Views/Default/home2.phtml",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/App/Views/Default/videoSelecionado.phtml",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/sftp-config-alt.json",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/home.php",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/home2.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/home.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/coin-slider-styles.css",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/videos.php",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/Css/garota-selecionada.css",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/App/Views/Default/garotaSelecionada.phtml",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/garotaSelecionada.php",
+		"/Z/Projetos_Web/Temporarios/A Casa Das Brasileirinhas/Css/garotas.css",
+		"/C/Users/Kaue/Dropbox/Projetos/Sublime 2/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/garota-selecionada.css",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/garotaSelecionada.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/garotaSelecionada.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/layout.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/assine.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/assine 2.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/assine 3.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/assine 4.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/assine.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/rodape.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/videos.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/videoSelecionado.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/garotas_selecionada.css",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/videoSelecionado.php",
+		"/C/Teste Brasileirinhas/assine.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/header.css",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-1/videos.css",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/videos.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/videoSelecionado.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/videos.css",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/layout.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/styles.css",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-3/videos.css",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-3/videos.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-3/videoSelecionado.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-3/.htaccess",
+		"/C/Users/Kaue/Dropbox/Projetos/Sublime 2/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Kaue/Dropbox/Projetos/Projetos/[2012] [12] [27] [Marcia Mitie Arquitetura V2]/wp-trackback.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/contato.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/capa.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/capa 2.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/home.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/video.php",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/assine.phtml",
+		"/C/Users/Kaue/AppData/Local/Temp/fz3temp-2/contato.php",
+		"/C/Users/Kaue/Dropbox/Projetos/Projetos/[2012] [12] [27] [Marcia Mitie Arquitetura V2]/wp-content/themes/arqm/functions.php",
+		"/C/Users/Kaue/Dropbox/Projetos/Projetos/[2012] [12] [27] [Marcia Mitie Arquitetura V2]/wp-content/themes/arqm/footer.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text",
+			"email",
+			"assinante-brasileirinhas",
+			"brasileirinhas",
+			"videos",
+			"os",
+			"todos",
+			"video-listado",
+			"videos",
+			"selecionado",
+			"<a href=\"\"><img src=\"\" alt=\"\"></a>",
+			"video-garota-selecionada",
+			"Brasil",
+			"h1",
+			"<img src=\"\" alt=\"\" class=\"foto-da-garota\">",
+			"Lorem ipsum.",
+			"<a href=\"\">\n					Lorem ipsum.\n				</a>",
+			"<li class=\"garota-casa\">",
+			"<img src=\"\" alt=\"\" class=\"foto-da-garota\">",
+			"bold",
+			"clearfix",
+			"home",
+			"wrapper",
+			"30px",
+			"AAA",
+			"16px",
+			"type=",
+			"span",
+			"text",
+			"side2",
+			"side1",
+			"assine",
+			"continuar",
+			"1px",
+			"40px",
+			";\n",
+			"fill",
+			"<a href=\"\">\n						<img src=\"Img/tmp/mais-videos-thumb2.jpg\" alt=\"\">\n					</a>",
+			"<a href=\"\"></a>",
+			"<img src=\"\" alt=\"\">",
+			"</p>",
+			"Consequatur",
+			"<a href=\"\"><img src=\"\" alt=\"\"",
+			"<a href=\"\">",
+			"png",
+			"h2",
+			"style",
+			"bold",
+			"right",
+			"h2",
+			"<img",
+			"20px",
+			"FFF",
+			"<p>Bebel Guedes<br/>20 Anos</p>",
+			"<p></p>",
+			"Img/",
+			"img",
+			"Img",
+			"img",
+			"Img",
+			"img",
+			"Img",
+			"src=\"\"",
+			"920px",
+			"?>",
+			">\n",
+			"#",
+			"=\"#\">",
+			"amarelo",
+			"impact",
+			"amarelo",
+			"texto",
+			"lente",
+			"main",
+			"javascripts",
+			"stylesheets",
+			"Light",
+			"theme",
+			"import",
+			";}",
+			"modules",
+			"> th",
+			"th",
+			"main",
+			"screen",
+			"sass",
+			"javascripts",
+			"banner",
+			"videos",
+			"casa",
+			"visitantes",
+			"agenda",
+			"casa",
+			"agenda",
+			"dpl",
+			"bottom",
+			"banner1",
+			"agenda",
+			"222",
+			"444",
+			"<td><em>08/04",
+			"em",
+			"Banheiro",
+			"Banho",
+			"sensual",
+			"Data",
+			"left",
+			"branco",
+			"right",
+			"div",
+			"FFF",
+			"3px",
+			"000",
+			"FFF",
+			"444",
+			"FFF",
+			"right",
+			"000",
+			"FFF",
+			"dpf",
+			"Login",
+			"jpg",
+			"en",
+			"password",
+			"username",
+			"example",
+			"false",
+			"1px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"font-family: Open Sans, Helvetica, Helvetica, Sans-serif;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.327285503479,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"output.sftp":
+	{
+		"height": 219.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"assine.scss",
+				"sass/modules/assine.scss"
+			],
+			[
+				"assine",
+				"App/Views/Default/assine.phtml"
+			],
+			[
+				"videos.scss",
+				"sass/modules/videos.scss"
+			],
+			[
+				"videos.scc",
+				"sass/modules/.sass-cache/48725add8fcda9d5059f4a66955a9ea6ffbced30/video-selecionado.scssc"
+			],
+			[
+				"videos.ph",
+				"App/Views/Default/videos.phtml"
+			],
+			[
+				"garota-selecio",
+				"sass/modules/garota-selecionada.scss"
+			],
+			[
+				"garotas",
+				"sass/modules/garotas.scss"
+			],
+			[
+				"video-selecionado",
+				"App/Views/Default/video-selecionado.phtml"
+			],
+			[
+				"assine.pht",
+				"App/Views/Default/assine.phtml"
+			],
+			[
+				"assinepht",
+				"App/Views/Default/assine.phtml"
+			],
+			[
+				"loginpht",
+				"App/Views/Default/login.phtml"
+			],
+			[
+				"login.scs",
+				"sass/modules/login.scss"
+			],
+			[
+				"home.css",
+				"Css/home.css"
+			],
+			[
+				"home",
+				"App/Views/Default/home.phtml"
+			],
+			[
+				"videoselec",
+				"App/Views/Default/videoSelecionado.phtml"
+			],
+			[
+				"videoselecio",
+				"App/Views/Default/videoSelecionado.phtml"
+			],
+			[
+				"videos.css",
+				"Css/videos.css"
+			],
+			[
+				"videoselecionado",
+				"App/Views/Default/videoSelecionado.phtml"
+			],
+			[
+				"template.css",
+				"Css/template.css"
+			],
+			[
+				"video",
+				"Css/videos.css"
+			],
+			[
+				"videoseleciona",
+				"App/Views/Default/videoSelecionado.phtml"
+			],
+			[
+				"garota-selec",
+				"Css/garota-selecionada.css"
+			],
+			[
+				"videos.php",
+				"videos.php"
+			],
+			[
+				"garotaselecionadapht",
+				"App/Views/Default/garotaSelecionada.phtml"
+			],
+			[
+				"garotasele",
+				"garotaSelecionada.php"
+			],
+			[
+				"garotaselecionada",
+				"garotaSelecionada.php"
+			],
+			[
+				"garota-selecionad",
+				"Css/garota-selecionada.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true
+}
